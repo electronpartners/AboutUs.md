@@ -6,6 +6,10 @@ General Information:
 
 Electron is a platform for learning about technology, programming, software, or anything in between them. We want to and will to our best ability will help you to learn about everything tech.
 
+Discord Invite:
+
+https://discord.gg/nWrjFEnH7r
+
 Support:
 
 If you'd like to reach our support teams, please email to electronsupport@pm.me
