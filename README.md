@@ -1,5 +1,7 @@
 # About Us
 
+Full Company Name: Electron Technology Partners, GP
+
 General Information:
 
 Electron is a platform for learning about technology, programming, software, or anything in between them. We want to and will to our best ability will help you to learn about everything tech.
